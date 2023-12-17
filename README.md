@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
-<h3 align="center">A Full Stack developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -7,7 +6,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmishra" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikeymishra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeymishra1" height="30" width="40" /></a>
 </p>
 
